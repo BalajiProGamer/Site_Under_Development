@@ -26,7 +26,7 @@ This page is designed to be easily customizable for any website. You can:
 
 ## Preview
 
-The page includes:
+The page includes;
 - A centered **"We'll be back soon!"** heading with a brief message about site development.
 - An embedded Lottie animation to keep the page visually interesting.
 - A contact link for users to reach out if they need help during the development period.
