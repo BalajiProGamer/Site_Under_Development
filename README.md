@@ -31,11 +31,6 @@ The page includes;
 - An embedded Lottie animation to keep the page visually interesting.
 - A contact link for users to reach out if they need help during the development period.
 
-  ## Features
-
-- Improved documentation
-- Added installation instructions
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
